@@ -49,6 +49,13 @@ button {
   outline: none;
 }
 
+.production {
+  text-align: center;
+  font-size: 1.6em;
+  color: #999;
+  padding: 25px 0;
+}
+
 
 /* =====================================
    共用樣式
