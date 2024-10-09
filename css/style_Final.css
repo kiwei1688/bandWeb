@@ -102,8 +102,14 @@ font-weight:300;
   /* background-color: #fff; */
 }
 .news p{
-    line-height:1.8em;
-    
+  font-size: 1.1em;
+  line-height:2em;
+}
+.news h1 {
+  color: #ea3b3b;
+  text-align: left;
+  font-size: 1.6em;
+  font-weight: bold;
 }
 .coursesTitle {
 	margin-bottom:20px;
@@ -262,6 +268,12 @@ figure_new {
   color: #999;
   text-align: center;
   margin: 50px 0 300px 0;
+}
+.production2 {
+  font-size: 1.4em;
+  color: #999;
+  text-align: center;
+  margin: 50px 0 100px 0;
 }
 
 .hover01 figure img {
